@@ -1,3 +1,3 @@
 # MooTools Confetti
 
-For all your mobile, webkit, Mootools confetti needs.
+For all your mobile, webkit, Mootools confetti needs. Word.
